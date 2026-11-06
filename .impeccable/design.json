@@ -1,0 +1,32 @@
+{
+  "name": "Sucatas Valinhos Ambiental",
+  "colors": {
+    "primary": "#06452f",
+    "deep": "#032d22",
+    "accent": "#b8ef56",
+    "background": "#f7f9f5",
+    "text": "#082c25"
+  },
+  "typography": {
+    "body": {
+      "fontFamily": "Space Grotesk",
+      "fontSize": "15px",
+      "lineHeight": 1.5
+    },
+    "display": {
+      "fontFamily": "Space Grotesk",
+      "fontSize": "clamp(46px,4.6vw,68px)",
+      "fontWeight": 600,
+      "lineHeight": 1.02,
+      "letterSpacing": "-.035em"
+    }
+  },
+  "rounded": {
+    "image": "10px",
+    "button": "40px"
+  },
+  "spacing": {
+    "gutter": "64px",
+    "section": "42px"
+  }
+}
